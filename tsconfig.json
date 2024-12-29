@@ -1,0 +1,4 @@
+{
+    "extends": "./node_modules/@sapphire/ts-config/src/tsconfig.json"
+  }
+  

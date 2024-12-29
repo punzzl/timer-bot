@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sapphire/framework": "5.3.1",
+    "@sapphire/plugin-subcommands": "^7.0.1",
+    "@sapphire/utilities": "^3.18.1",
+    "discord.js": "14.16.3",
+    "dotenv": "16.4.7"
+  },
+  "devDependencies": {
+    "@sapphire/ts-config": "5.0.1",
+    "ts-node": "10.9.2"
+  }
+}
